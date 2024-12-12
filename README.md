@@ -16,14 +16,16 @@ I'm always eager to learn more about how technologies work and to share what I d
 I'm constantly exploring new technologies and methods. Let’s learn together! If you have any resources or tips to share, I'm all ears! 🎓  
 
 ### 🌐 Connect with Me  
-Feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/alireza-avini-005332157/).  
+Feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/alireza-avini-005332157/) or email me at [alirezaavini751@gmail.com](mailto:alirezaavini751@gmail.com).  
+<!-- 
 
 ### 📝 Projects  
 Check out my repositories below to see some of the projects I've been working on. I'm excited to hear your feedback!  
 
 - [Project 1](link-to-your-project-1)  
 - [Project 2](link-to-your-project-2)  
-- [Project 3](link-to-your-project-3)  
+- [Project 3](link-to-your-project-3)  ****
+-->
 
 ### 🤝 Let's Collaborate!  
 I'm always open to new opportunities, collaborations, and discussions. Let's connect and create something great together! 💬  
